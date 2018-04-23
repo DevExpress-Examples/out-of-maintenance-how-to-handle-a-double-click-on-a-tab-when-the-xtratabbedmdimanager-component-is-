@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbedMDI", "TabbedMDI.csproj", "{AE036C7E-4EB0-498C-8D26-8638C89F67AC}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE036C7E-4EB0-498C-8D26-8638C89F67AC}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{AE036C7E-4EB0-498C-8D26-8638C89F67AC}.Debug|Default.Build.0 = Debug|Any CPU
+		{AE036C7E-4EB0-498C-8D26-8638C89F67AC}.Release|Default.ActiveCfg = Release|Any CPU
+		{AE036C7E-4EB0-498C-8D26-8638C89F67AC}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
