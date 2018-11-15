@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [TabbedMdiManagerHelper.cs](./CS/TabbedMdiManagerHelper.cs) (VB: [TabbedMdiManagerHelper.vb](./VB/TabbedMdiManagerHelper.vb))
+* [TabHeaderDoubleClickEventArgs.cs](./CS/TabHeaderDoubleClickEventArgs.cs) (VB: [TabHeaderDoubleClickEventArgs.vb](./VB/TabHeaderDoubleClickEventArgs.vb))
+<!-- default file list end -->
 # How to handle a double click on a tab when the XtraTabbedMdiManager component is used
 
 
